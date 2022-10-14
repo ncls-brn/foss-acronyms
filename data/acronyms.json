@@ -436,5 +436,14 @@
     "Definition": "Your Mileage May Vary",
     "Usage": "",
     "Example": "<a href=\"https://github.com/openai/whisper/discussions/50#discussioncomment-3713986\">Whisper</a>"
+  },
+  {
+    "Abbreviation": "RTL",
+    "Definition": "Right To Left",
+    "Usage": "Right-to-left can also refer to scripts of tradition, such as Hebrew, Arabic and Thaana",
+    "Example": "<a href=\"https://en.wikipedia.org/wiki/Right-to-left_script\">Wikipedia</a>"
   }
+
+
+
 ]
